@@ -34,7 +34,3 @@ else:
 
 print(a, 'En romanos = ', ''.join(ro))
 
-# usar el mod 10 o sor para ir descomponiendo el numero de 1 digito por
-# vez de derecha a izquiera, hacer lista de los numero de 1 a '9' y comparar
-# si esta en el segundo mod son decenas
-# y en el tercer mod es 1000
